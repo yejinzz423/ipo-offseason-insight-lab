@@ -23,7 +23,7 @@
 - 체류시간 및 Tap Interaction Map 해석
 - 커뮤니티 활동 데이터 분석
 - HeatScore 기반 시즌 구분 및 지표 설계
-- 
+
 
 ## 🧠 Key Focus
 
